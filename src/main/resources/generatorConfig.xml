@@ -42,7 +42,7 @@
         </javaModelGenerator>
 
         <!-- 02 XxxMapper.xml指定sql映射文件生成的位置 -->
-        <sqlMapGenerator targetPackage="mapper"
+        <sqlMapGenerator targetPackage="mapper_sys"
                          targetProject="src/main/resources">
             <!-- 是否允许子包，即targetPackage.schemaName.tableName -->
             <property name="enableSubPackages" value="false"/>

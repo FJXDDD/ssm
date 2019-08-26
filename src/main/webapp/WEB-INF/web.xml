@@ -24,7 +24,7 @@
   <!-- 中文乱码处理 -->
   <filter>
     <filter-name>encodingFilter</filter-name>
-    <filter-class>com.zking.ssm.util.EncodingFiter</filter-class>
+    <filter-class>com.zking.ssm.sys.util.EncodingFiter</filter-class>
     <!--web.xml 3.0的新特性，是否支持异步-->
     <async-supported>true</async-supported>
     <init-param>

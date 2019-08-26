@@ -1010,10 +1010,10 @@ instanceKlass org/springframework/core/SerializableTypeWrapper$$Lambda$41
 instanceKlass org/springframework/core/ResolvableType$WildcardBounds
 instanceKlass org/springframework/core/SimpleAliasRegistry$$Lambda$40
 instanceKlass java/lang/invoke/LambdaForm$DMH
-instanceKlass com/zking/ssm/mapper/UserMapper
-instanceKlass com/zking/ssm/mapper/RoleMapper
+instanceKlass com/zking/ssm/mapper_sys/UserMapper
+instanceKlass com/zking/ssm/mapper_sys/RoleMapper
 instanceKlass org/springframework/util/MethodInvoker
-instanceKlass com/zking/ssm/mapper/PermissionMapper
+instanceKlass com/zking/ssm/mapper_sys/PermissionMapper
 instanceKlass org/springframework/beans/factory/support/ConstructorResolver$ArgumentsHolder
 instanceKlass java/beans/ConstructorProperties
 instanceKlass org/springframework/beans/factory/support/ConstructorResolver$ConstructorPropertiesChecker
@@ -1278,8 +1278,8 @@ instanceKlass java/util/LinkedList$LLSpliterator
 instanceKlass org/springframework/beans/factory/config/ConstructorArgumentValues$$Lambda$25
 instanceKlass org/springframework/beans/factory/config/ConstructorArgumentValues$ValueHolder
 instanceKlass org/springframework/beans/factory/config/ConstructorArgumentValues
-instanceKlass org/mybatis/spring/mapper/ClassPathMapperScanner$3
-instanceKlass org/mybatis/spring/mapper/ClassPathMapperScanner$2
+instanceKlass org/mybatis/spring/mapper_sys/ClassPathMapperScanner$3
+instanceKlass org/mybatis/spring/mapper_sys/ClassPathMapperScanner$2
 instanceKlass org/springframework/dao/support/DaoSupport
 instanceKlass org/springframework/beans/AbstractNestablePropertyAccessor$PropertyTokenHolder
 instanceKlass org/springframework/core/convert/Property
@@ -1395,7 +1395,7 @@ instanceKlass org/apache/commons/pool2/BaseObject
 instanceKlass org/springframework/transaction/support/AbstractPlatformTransactionManager
 instanceKlass org/springframework/transaction/support/ResourceTransactionManager
 instanceKlass org/springframework/transaction/PlatformTransactionManager
-instanceKlass org/mybatis/spring/mapper/MapperScannerConfigurer
+instanceKlass org/mybatis/spring/mapper_sys/MapperScannerConfigurer
 instanceKlass org/mybatis/spring/SqlSessionFactoryBean
 instanceKlass org/springframework/context/ApplicationListener
 instanceKlass org/apache/commons/dbcp2/BasicDataSource
